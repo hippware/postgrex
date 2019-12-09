@@ -74,7 +74,8 @@ defmodule Postgrex.Mixfile do
     [
       maintainers: ["Eric Meadows-Jönsson", "James Fish"],
       licenses: ["Apache-2.0"],
-      links: %{"Github" => "https://github.com/elixir-ecto/postgrex"}
+      links: %{"Github" => "https://github.com/elixir-ecto/postgrex"},
+      organization: "hippware"
     ]
   end
 end
